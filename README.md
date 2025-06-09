@@ -1,7 +1,7 @@
 # KAA-CAL
 # Driving Scene Identification (DSI) Dataset
 ## Overview
-![image](pic/DSI-1.png)
+<img src="pic/example.png" alt="示例" width="400px" />
 <details>
 <summary>Grade-separated Infrastructure (Trn: 4,874; Vld: 1,866; Tst: 1,025)</summary>
 
