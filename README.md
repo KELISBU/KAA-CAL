@@ -87,3 +87,34 @@
 
 </details>
 
+## Download url
+The DSI dataset is avaliable and can be download at this url.
+
+<pre markdown>
+···
+dataset/
+├── train/
+│   ├── Grade-separated_Infrastructure/
+│   │   ├── img001.jpg
+│   │   ├── img002.jpg
+│   │   └── …
+│   ├── Road_Function/
+│   │   ├── img001.jpg
+│   │   ├── img002.jpg
+│   │   └── …
+│   ├── Weather/
+│   │   └── …
+│   ├── Workzone/
+│   │   └── …
+│   ├── Road_Condition/
+│   │   └── …
+│   ├── Time-of-day/
+│   │   └── …
+│   └── Intersection_Type/
+│       └── …
+├── val/
+│   └── （same as train）
+└── test/
+    └── （same as train）
+···
+</pre>
