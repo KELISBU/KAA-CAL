@@ -5,6 +5,7 @@
   <img src="pic/DSI-1.png" alt="DSI Overview" width="600" />
 </p>
 ## Dataset Structure
+
 <details>
 <summary>Grade-separated Infrastructure (Trn: 4,874; Vld: 1,866; Tst: 1,025)</summary>
 
