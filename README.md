@@ -91,7 +91,6 @@
 The DSI dataset is avaliable and can be download at this url.
 
 <pre markdown>
-···
 dataset/
 ├── train/
 │   ├── Grade-separated_Infrastructure/
@@ -116,5 +115,4 @@ dataset/
 │   └── （same as train）
 └── test/
     └── （same as train）
-···
 </pre>
