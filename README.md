@@ -88,7 +88,7 @@
 </details>
 
 ## Download url
-The DSI dataset is avaliable and can be download at this [url](https://drive.google.com/file/d/1yw4EcfGFGjs2OAa4sWfwQaIDkxDIAR46/view?usp=drive_link).
+The DSI dataset is avaliable and can be downloaded at this [url](https://drive.google.com/file/d/1yw4EcfGFGjs2OAa4sWfwQaIDkxDIAR46/view?usp=drive_link).
 
 <pre markdown>
 dataset/
