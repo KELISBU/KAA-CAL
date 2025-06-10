@@ -2,7 +2,7 @@
 # Driving Scene Identification (DSI) Dataset
 ## Overview
 <p align="center">
-  <img src="pic/DSI-1.png" alt="DSI Overview" width="600" />
+  <img src="pic/DSI.png" alt="DSI Overview" width="600" />
 </p>
 
 ## Dataset Structure
