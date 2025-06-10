@@ -67,7 +67,7 @@
 </details>
 
 <details>
-<summary>Time of day (Trn: 1,656; Vld: 1,022; Tst: 300)</summary>
+<summary>Time of Day (Trn: 1,656; Vld: 1,022; Tst: 300)</summary>
 
 | Class     | Trn   | Vld  | Tst |
 |-----------|-------|------|-----|
