@@ -46,7 +46,7 @@
 </details>
 
 <details>
-<summary>Workzone (Trn: 2,121; Vld: 1,498; Tst: 662)</summary>
+<summary>Work Zone (Trn: 2,121; Vld: 1,498; Tst: 662)</summary>
 
 | Class | Trn   | Vld  | Tst |
 |-------|-------|------|-----|
@@ -67,7 +67,7 @@
 </details>
 
 <details>
-<summary>Time-of-day (Trn: 1,656; Vld: 1,022; Tst: 300)</summary>
+<summary>Time of day (Trn: 1,656; Vld: 1,022; Tst: 300)</summary>
 
 | Class     | Trn   | Vld  | Tst |
 |-----------|-------|------|-----|
@@ -105,11 +105,11 @@ dataset/
 │   │   └── …
 │   ├── Weather/
 │   │   └── …
-│   ├── Workzone/
+│   ├── Work Zone/
 │   │   └── …
 │   ├── Road_Condition/
 │   │   └── …
-│   ├── Time-of-day/
+│   ├── Time of Day/
 │   │   └── …
 │   └── Intersection_Type/
 │       └── …
