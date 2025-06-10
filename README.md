@@ -1,6 +1,6 @@
 # KAA-CAL
 # Driving Scene Identification (DSI) Dataset
- DSI, a single-label dataset created to demonstrate the proposed approach to developing KAA, a multi-label scene classification model. DSI consists of 31,835 scene images sampled from public driving video datasets, including BDD100K [10], HSD [11], and ROADWork Data [9], and is supplemented with additional images from YouTube videos. these scene attributes include Grade-separated Infrastructure, Road Function, Weather, Work Zone, Weather-related Road Condition, Time of Day, and Intersection Type. In total, DSI provides image-level labels for 24 distinct classes, with each class falling exclusively under one of the seven scene attributes.
+ DSI, a single-label dataset created to demonstrate the proposed approach to developing KAA, a multi-label scene classification model. DSI consists of 31,835 scene images sampled from public driving video datasets, including BDD100K, HSD, and ROADWork Data, and is supplemented with additional images from YouTube videos. these scene attributes include Grade-separated Infrastructure, Road Function, Weather, Work Zone, Weather-related Road Condition, Time of Day, and Intersection Type. In total, DSI provides image-level labels for 24 distinct classes, with each class falling exclusively under one of the seven scene attributes.
 
 ## Overview
 <p align="center">
