@@ -1,9 +1,15 @@
 # KAA-CAL
 
 ## KAA
-KAA is designed to acquire and accumulate knowledge from various single-label datasets for multi-label driving scene classification. KAA utilizes a teacher-student network architecture. The knowledge acquisition network (KAqN) serves as the student network, responsible for learning new knowledge and consolidating it into the existing knowledge in the learning system. The knowledge accumulation network (KAcN), acting as the teacher network, stores the consolidated knowledge and applies it to guide the student network in continual learning and improvement.
+KAA **acquires** and **accumulates** knowledge about scene identification from various single-label datasets via monotask learning.
 <p align="center">
   <img src="pic/methodology (1).png" alt="DSI Overview" width="600" />
+</p>
+
+##CAL
+CAL effectively resolves the knowledge gap caused by the discrepancy between single-label and multi-label data.
+<p align="center">
+  <img src="pic/CAL.png" alt="DSI Overview" width="600" />
 </p>
 
 # Driving Scene Identification (DSI) Dataset
