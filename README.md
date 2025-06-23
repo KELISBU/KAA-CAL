@@ -1,10 +1,10 @@
 # KAA-CAL
 
 ## KAA
-<p align="center">
-  <img src="pic/DSI.png" alt="DSI Overview" width="600" />
-</p>
 KAA is designed to acquire and accumulate knowledge from various single-label datasets for multi-label driving scene classification. KAA utilizes a teacher-student network architecture. The knowledge acquisition network (KAqN) serves as the student network, responsible for learning new knowledge and consolidating it into the existing knowledge in the learning system. The knowledge accumulation network (KAcN), acting as the teacher network, stores the consolidated knowledge and applies it to guide the student network in continual learning and improvement.
+<p align="center">
+  <img src="pic/methodology (1).png" alt="DSI Overview" width="600" />
+</p>
 
 # Driving Scene Identification (DSI) Dataset
  DSI, a single-label dataset created to demonstrate the proposed approach to developing KAA, a multi-label scene classification model. DSI consists of 31,835 scene images sampled from public driving video datasets, including BDD100K, HSD, and ROADWork Data, and is supplemented with additional images from YouTube videos. these scene attributes include Grade-separated Infrastructure, Road Function, Weather, Work Zone, Weather-related Road Condition, Time of Day, and Intersection Type. In total, DSI provides image-level labels for 24 distinct classes, with each class falling exclusively under one of the seven scene attributes.
