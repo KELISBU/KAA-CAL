@@ -4,7 +4,7 @@
 
 ## Overview
 <p align="center">
-  <img src="pic/DSI.png" alt="DSI Overview" width="600" />
+  <img src="pic/DS.png" alt="DSI Overview" width="600" />
 </p>
 
 ## Dataset Structure
