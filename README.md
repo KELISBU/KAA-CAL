@@ -9,7 +9,7 @@ KAA **acquires** and **accumulates** knowledge about scene identification from v
 ## CAL
 CAL effectively resolves the knowledge gap caused by the discrepancy between single-label and multi-label data.
 <p align="center">
-  <img src="pic/CAL.png" alt="DSI Overview" width="600" />
+  <img src="pic/CAL.png" alt="DSI Overview" width="400" />
 </p>
 
 # Driving Scene Identification (DSI) Dataset
