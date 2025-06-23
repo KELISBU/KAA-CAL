@@ -6,7 +6,7 @@ KAA **acquires** and **accumulates** knowledge about scene identification from v
   <img src="pic/methodology (1).png" alt="DSI Overview" width="600" />
 </p>
 
-##CAL
+## CAL
 CAL effectively resolves the knowledge gap caused by the discrepancy between single-label and multi-label data.
 <p align="center">
   <img src="pic/CAL.png" alt="DSI Overview" width="600" />
