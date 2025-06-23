@@ -131,3 +131,23 @@ dataset/
 └── test/
     └── （same as train）
 </pre>
+
+# Citation
+
+If you find our work helpful, please consider citing our paper:
+
+**Acquiring and Accumulating Knowledge from Diverse Datasets for Multi-label Driving Scene Classification**  
+Ke Li, Chenyu Zhang, Yuxin Ding, Xianbiao Hu, Ruwen Qin  
+arXiv preprint, 2025  
+👉 [https://arxiv.org/abs/2506.17101](https://arxiv.org/abs/2506.17101)
+
+```bibtex
+@misc{li2025acquiringaccumulatingknowledgediverse,
+  title     = {Acquiring and Accumulating Knowledge from Diverse Datasets for Multi-label Driving Scene Classification},
+  author    = {Ke Li and Chenyu Zhang and Yuxin Ding and Xianbiao Hu and Ruwen Qin},
+  year      = {2025},
+  eprint    = {2506.17101},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CV},
+  url       = {https://arxiv.org/abs/2506.17101}
+}
