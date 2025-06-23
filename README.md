@@ -14,9 +14,9 @@
 
 | Class             | Trn   | Vld   | Tst |
 |-------------------|-------|-------|-----|
-| Over-head Bridge  | 3,000 | 1,000 | 500 |
-| Tunnel            | 1,136 | 332   | 216 |
-| Open Road         | 738   | 534   | 309 |
+| Overhead bridges  | 3,000 | 1,000 | 500 |
+| Tunnels           | 1,136 | 332   | 216 |
+| Open roads        | 738   | 534   | 309 |
 
 </details>
 
@@ -48,15 +48,15 @@
 <details>
 <summary>Work Zone (Trn: 2,121; Vld: 1,498; Tst: 662)</summary>
 
-| Class | Trn   | Vld  | Tst |
-|-------|-------|------|-----|
-| Yes   | 1,418 | 964  | 353 |
-| No    | 703   | 534  | 309 |
+| Class             | Trn   | Vld  | Tst |
+|-------------------|-------|------|-----|
+| Work zone         | 1,418 | 964  | 353 |
+| None-work zone    | 703   | 534  | 309 |
 
 </details>
 
 <details>
-<summary>Road Condition (Trn: 2,295; Vld: 957; Tst: 441)</summary>
+<summary>Weather-related Road Condition (Trn: 2,295; Vld: 957; Tst: 441)</summary>
 
 | Class | Trn   | Vld  | Tst |
 |-------|-------|------|-----|
@@ -95,7 +95,7 @@ The DSI dataset is avaliable and can be downloaded at this [url](https://drive.g
 <pre markdown>
 dataset/
 ├── train/
-│   ├── Grade-separated_Infrastructure/
+│   ├── Grade-separated Infrastructure/
 │   │   ├── img001.jpg
 │   │   ├── img002.jpg
 │   │   └── …
