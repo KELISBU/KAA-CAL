@@ -132,6 +132,9 @@ dataset/
     └── （same as train）
 </pre>
 
+# License notice
+
+DSI dataset is ONLY free for non-commercial use, such as education and research use. 
 # Citation
 
 If you find our work helpful, please consider citing our paper:
@@ -150,8 +153,4 @@ arXiv preprint, 2025
   archivePrefix = {arXiv},
   primaryClass  = {cs.CV},
   url       = {https://arxiv.org/abs/2506.17101}
-}'''
-
-# License notice
-
-DSI dataset is ONLY free for non-commercial use, such as education and research use. 
+}
