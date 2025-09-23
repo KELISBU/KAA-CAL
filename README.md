@@ -150,7 +150,7 @@ arXiv preprint, 2025
   archivePrefix = {arXiv},
   primaryClass  = {cs.CV},
   url       = {https://arxiv.org/abs/2506.17101}
-}
+}'''
 
 # License notice
 
