@@ -151,3 +151,7 @@ arXiv preprint, 2025
   primaryClass  = {cs.CV},
   url       = {https://arxiv.org/abs/2506.17101}
 }
+
+# License notice
+
+DSI dataset is ONLY free for non-commercial use, such as education and research use. 
