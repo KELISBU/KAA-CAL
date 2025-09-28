@@ -145,12 +145,12 @@ arXiv preprint, 2025
 👉 [https://arxiv.org/abs/2506.17101](https://arxiv.org/abs/2506.17101)
 
 ```bibtex
-@misc{li2025acquiringaccumulatingknowledgediverse,
-  title     = {Acquiring and Accumulating Knowledge from Diverse Datasets for Multi-label Driving Scene Classification},
-  author    = {Ke Li and Chenyu Zhang and Yuxin Ding and Xianbiao Hu and Ruwen Qin},
-  year      = {2025},
-  eprint    = {2506.17101},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.CV},
-  url       = {https://arxiv.org/abs/2506.17101}
+@misc{li2025multilabelsceneclassificationautonomous,
+      title={Multi-label Scene Classification for Autonomous Vehicles: Acquiring and Accumulating Knowledge from Diverse Datasets}, 
+      author={Ke Li and Chenyu Zhang and Yuxin Ding and Xianbiao Hu and Ruwen Qin},
+      year={2025},
+      eprint={2506.17101},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2506.17101}, 
 }
