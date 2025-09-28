@@ -20,7 +20,7 @@ DSI consists of **31,835** scene images sampled from publicly available driving 
 
 - [**BDD100K**](https://bdd-data.berkeley.edu/) — A large-scale and diverse driving dataset with videos and annotated images collected under various conditions.
 - [**Honda HSD**](https://usa.honda-ri.com/HSD) — The Honda Driving Dataset, which contains annotated driving scenes for perception and classification tasks.
-- [**ROADWork**](https://github.com/gurkirt/road-dataset) — A dataset focusing on road scene understanding, including work zones and road functional classes.
+- [**ROADWork**](https://www.cs.cmu.edu/~roadwork/) — A dataset focusing on road scene understanding, including work zones and road functional classes.
 
 We further supplement the dataset with additional driving scene images collected from YouTube videos.  
 The dataset covers seven scene attributes: **Grade-separated Infrastructure**, **Road Function**, **Weather**, **Work Zone**, **Weather-related Road Condition**, **Time of Day**, and **Intersection Type**.  
