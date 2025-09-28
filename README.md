@@ -12,8 +12,20 @@ CAL effectively resolves the knowledge gap caused by the discrepancy between sin
   <img src="pic/CAL.png" alt="DSI Overview" width="400" />
 </p>
 
-# Driving Scene Identification (DSI) Dataset
- DSI, a single-label dataset created to demonstrate the proposed approach to developing KAA, a multi-label scene classification model. DSI consists of 31,835 scene images sampled from public driving video datasets, including BDD100K, HSD, and ROADWork Data, and is supplemented with additional images from YouTube videos. these scene attributes include Grade-separated Infrastructure, Road Function, Weather, Work Zone, Weather-related Road Condition, Time of Day, and Intersection Type. In total, DSI provides image-level labels for 24 distinct classes, with each class falling exclusively under one of the seven scene attributes.
+## 📊 Driving Scene Identification (DSI) Dataset
+
+The **Driving Scene Identification (DSI)** dataset is a single-label dataset created to demonstrate our proposed approach to developing **KAA**, a multi-label scene classification model.
+
+DSI consists of **31,835** scene images sampled from publicly available driving video datasets, including:
+
+- [**BDD100K**](https://bdd-data.berkeley.edu/) — A large-scale and diverse driving dataset with videos and annotated images collected under various conditions.
+- [**Honda HSD**](https://usa.honda-ri.com/HSD) — The Honda Driving Dataset, which contains annotated driving scenes for perception and classification tasks.
+- [**ROADWork**](https://github.com/gurkirt/road-dataset) — A dataset focusing on road scene understanding, including work zones and road functional classes.
+
+We further supplement the dataset with additional driving scene images collected from YouTube videos.  
+The dataset covers seven scene attributes: **Grade-separated Infrastructure**, **Road Function**, **Weather**, **Work Zone**, **Weather-related Road Condition**, **Time of Day**, and **Intersection Type**.  
+
+In total, DSI provides image-level labels for **24 distinct classes**, with each class belonging exclusively to one of the seven attributes.
 
 ## Overview
 <p align="center">
