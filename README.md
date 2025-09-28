@@ -18,7 +18,7 @@ The **Driving Scene Identification (DSI)** dataset is a single-label dataset cre
 
 DSI consists of **31,835** scene images sampled from publicly available driving video datasets, including:
 
-- [**BDD100K**](https://bdd-data.berkeley.edu/) — A large-scale and diverse driving dataset with videos and annotated images collected under various conditions.
+- [**BDD100K**](http://bdd-data.berkeley.edu.) — A large-scale and diverse driving dataset with videos and annotated images collected under various conditions.
 - [**Honda HSD**](https://usa.honda-ri.com/HSD) — The Honda Driving Dataset, which contains annotated driving scenes for perception and classification tasks.
 - [**ROADWork**](https://www.cs.cmu.edu/~roadwork/) — A dataset focusing on road scene understanding, including work zones and road functional classes.
 
