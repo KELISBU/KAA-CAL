@@ -14,7 +14,7 @@ CAL effectively resolves the knowledge gap caused by the discrepancy between sin
 
 ## 🚀 Release
 
-We release the pretrained **KAA** model weights here: [Download](REPLACE_WITH_YOUR_LINK).
+We release the pretrained **KAA** model weights here: [Download](https://huggingface.co/Ke66668888/KAA/tree/main).
 
 The remaining code will be released soon.
 
