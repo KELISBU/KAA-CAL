@@ -12,6 +12,12 @@ CAL effectively resolves the knowledge gap caused by the discrepancy between sin
   <img src="pic/CAL.png" alt="DSI Overview" width="400" />
 </p>
 
+## 🚀 Release
+
+We release the pretrained **KAA** model weights here: [Download](REPLACE_WITH_YOUR_LINK).
+
+The remaining code will be released soon.
+
 ## 📊 Driving Scene Identification (DSI) Dataset
 
 The **Driving Scene Identification (DSI)** dataset is a single-label dataset created to demonstrate our proposed approach to developing **KAA**, a multi-label scene classification model.
@@ -26,6 +32,8 @@ We further supplement the dataset with additional driving scene images collected
 The dataset covers seven scene attributes: **Grade-separated Infrastructure**, **Road Function**, **Weather**, **Work Zone**, **Weather-related Road Condition**, **Time of Day**, and **Intersection Type**.  
 
 In total, DSI provides image-level labels for **24 distinct classes**, with each class belonging exclusively to one of the seven attributes.
+
+To support reproducibility, DSI follows a unified acquisition and annotation protocol. YouTube videos served only as supplementary sources for underrepresented attributes (Road Function, Weather-related Road Condition, and Intersection Type): dashboard ego-view driving videos were retrieved via class-specific queries and sampled every five frames. All images from BDD100K, HSD, ROADWork, and YouTube were re-annotated under a unified class-definition system rather than by adopting source-dataset labels. Each image was independently labeled by two domain experts, with disagreements resolved through discussion; unreliable labels were assigned a sentinel value of `-1` and excluded from the training loss.
 
 ## Overview
 <p align="center">
