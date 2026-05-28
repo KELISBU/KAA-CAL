@@ -159,7 +159,7 @@ DSI dataset is ONLY free for non-commercial use, such as education and research 
 
 If you find our work helpful, please consider citing our paper:
 
-**Multi-label Scene Classification for Autonomous Vehicles: Acquiring and Accumulating Knowledge from Diverse Datasets**  
+**Multi-attribute Scene Classification for Autonomous Vehicles: Acquiring and Accumulating Knowledge from Diverse Datasets**  
 Ke Li, Chenyu Zhang, Yuxin Ding, Xianbiao Hu, Ruwen Qin  
 arXiv preprint, 2025  
 👉 [https://arxiv.org/abs/2506.17101](https://arxiv.org/abs/2506.17101)
