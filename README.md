@@ -42,6 +42,46 @@ To support reproducibility, DSI follows a unified acquisition and annotation pro
 
 ## Dataset Structure
 
+### TXT Annotation Format
+
+The annotations are provided as plain-text files. There is one annotation file
+for each scene attribute and data split, following the naming convention
+`<task>_<split>.txt`, for example, `weather_train.txt`,
+`weather_valid.txt`, and `weather_test.txt`.
+
+Each line contains two whitespace-separated fields:
+
+```text
+<image_filename> <class_id>
+```
+
+- `image_filename` is the name of the corresponding image, including its file
+  extension.
+- `class_id` is a zero-based integer whose meaning depends on the scene
+  attribute. The mappings are listed below.
+
+| Scene attribute | Class-to-ID mapping |
+|-----------------|---------------------|
+| Grade-separated Infrastructure | `Overhead bridges`: `2`; `Tunnels`: `1`; `Open roads`: `0` |
+| Road Function | `Local`: `0`; `Arterial`: `3`; `Interstate`: `1`; `Collector`: `2` |
+| Weather | `Overcast`: `4`; `Clear`: `1`; `Foggy`: `0`; `Snowing`: `2`; `Raining`: `3` |
+| Work Zone | `Work zone`: `0`; `None-work zone`: `1` |
+| Weather-related Road Condition | `Snowy`: `1`; `Dry`: `0`; `Wet`: `2` |
+| Time of Day | `Night`: `1`; `Daytime`: `0`; `Dawn/Dusk`: `2` |
+| Intersection Type | `None`: `0`; `4-way`: `2`; `3-way`: `1`; `Roundabout`: `3` |
+
+For example, the following line in `weather_train.txt` means that
+`clear1.jpg` is annotated as `Clear`:
+
+```text
+clear1.jpg 1
+```
+
+The image files are organized by split and scene attribute. Thus, the image in
+the example above is stored under `train/weather/clear1.jpg`. Annotation files
+use `valid` in their filenames, while the corresponding validation image
+directory is named `val`.
+
 <details>
 <summary>Grade-separated Infrastructure (Trn: 4,874; Vld: 1,866; Tst: 1,025)</summary>
 
